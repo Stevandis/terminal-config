@@ -5,6 +5,12 @@ My terminal config
 ## Required Packages
 Install these to make the aliases and visuals work:
 
+#### 1. Download oh-my-bash
+```
+$ bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
+```
+
+#### 2. Install Packages
 ```
 # pacman -S eza blesh fastfetch
 ```
