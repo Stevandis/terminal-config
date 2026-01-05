@@ -18,7 +18,6 @@ $ bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/ma
 ## Terminal Features
 * **ble.sh**: Syntax highlighting and auto-suggestions for Bash.
 * **eza**: A replacement for `ls` with icons.
-  * Alias: `ls` -> `eza --icons --group-directories-first`
 * **fastfetch**: System information display on startup.
 
 ## Restore Procedure
