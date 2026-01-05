@@ -2,8 +2,10 @@
 
 ## 🛠️ Required Packages
 Install these to make the aliases and visuals work:
-```markdown
-`# pacman -S eza blesh fastfetch`
+
+```
+# pacman -S eza blesh fastfetch
+```
 
 ## ⚡ Terminal Features
 * **ble.sh**: Syntax highlighting and auto-suggestions for Bash.
